@@ -3,8 +3,8 @@
 * [简介](README.md)
 * [关于我们](about.md)
 
-## Group 1
+## 核心组件 <a href="core" id="core"></a>
 
-* [控制面](group-1/kong-zhi-mian.md)
-* [数据面](group-1/shu-ju-mian.md)
-* [api网关](group-1/gateway.md)
+* [控制面](core/kong-zhi-mian.md)
+* [数据面](core/shu-ju-mian.md)
+* [api网关](core/gateway.md)
