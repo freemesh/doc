@@ -6,6 +6,17 @@
 ## 概念 <a href="concepts" id="concepts"></a>
 
 * [什么是FreeMesh](concepts/intro.md)
+* [流量管理](concepts/traffic-management.md)
+* [安全](concepts/security.md)
+* [可观察性](concepts/observability.md)
+
+## 使用 <a href="use" id="use"></a>
+
+* [快速开始](use/quick.md)
+* [安装](use/install/README.md)
+  * [安装控制面](use/install/control.md)
+  * [安装数据面](use/install/agent.md)
+  * [安装api网关](use/install/gateway.md)
 
 ## 核心组件 <a href="core" id="core"></a>
 
@@ -18,3 +29,7 @@
 * [k8s部署指南](good/k8s.md)
 * [流量泳道](good/swimming.md)
 * [单元化](good/set.md)
+
+## 参考 <a href="reference" id="reference"></a>
+
+* [配置](reference/config.md)
