@@ -7,4 +7,4 @@
 
 * [控制面](group-1/kong-zhi-mian.md)
 * [数据面](group-1/shu-ju-mian.md)
-* [api网关](group-1/api-wang-guan.md)
+* [api网关](group-1/gateway.md)
