@@ -29,7 +29,13 @@
 * [k8s部署指南](good/k8s.md)
 * [流量泳道](good/swimming.md)
 * [单元化](good/set.md)
-* [异地多活架构](good/yi-di-duo-huo-jia-gou.md)
+* [异地多活](good/Multi-Site.md)
+
+## 迁移 <a href="#migrate" id="migrate"></a>
+
+* [springcloud->freemesh](migrate/springcloud.md)
+* [单体架构->freemesh](migrate/Monolith.md)
+* [微服务架构->freemesh](migrate/MicroService.md)
 
 ## 参考 <a href="#reference" id="reference"></a>
 
