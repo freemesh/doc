@@ -28,7 +28,7 @@
 
 * [k8s部署指南](good/k8s.md)
 * [流量泳道](good/swimming.md)
-* [单元化](good/set.md)
+* [单元化](good/cell.md)
 * [异地多活](good/Multi-Site.md)
 
 ## 迁移 <a href="#migrate" id="migrate"></a>
